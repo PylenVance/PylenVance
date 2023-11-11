@@ -1,16 +1,37 @@
-### Hi there 👋
+# 🏄‍♂️ PylenVance
 
-<!--
-**PylenVance/PylenVance** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**`Hobbiest coder (Developer/Creator)`**
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🧰 Languages and Tools
+
+<img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
+<img align="left" alt="JavaScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
+<img align="left" alt="NodeJS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
+<img align="left" alt="C++" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-line.svg" />
+<img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
+<img align="left" alt="Bash" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
+<br />
+
+#
+
+### 📺 Latest Posts
+
+<!-- BEGIN -CARDS -->
+[![Selfbot Base](https://gh-card.dev/repos/PylenVance/Discord-SelfbotBase.svg)](https://github.com/PylenVance/Discord-SelfbotBase)
+<!-- END -CARDS -->
+
+#
+
+### 📊 Stats
+
+![GitHub stats]![GitHub Stats](https://gh-readme-profile.vercel.app/api?username=FajarKim&locale=en)
+
+
+![GitHub Streak](https://streak-stats.demolab.com/?user=PylenVance&theme=default&border_radius=4.5) -->
+
+#
+
+<details>
+
+[discord]: le_yuki
