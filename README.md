@@ -19,7 +19,7 @@
 #
 
 ### 📊 Stats
-![GitHub stats]![GitHub Stats](https://gh-readme-profile.vercel.app/api?username=PylenVance&locale=en)
+![GitHub Stats](https://gh-readme-profile.vercel.app/api?username=PylenVance&locale=en)
 #
 <details>
 
