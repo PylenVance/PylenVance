@@ -2,7 +2,6 @@
 
 **`Hobbiest coder (Developer/Creator)`**
 
-
 ### 🧰 Languages and Tools
 
 <img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
@@ -16,22 +15,12 @@
 #
 
 ### 📺 Latest Posts
-
-<!-- BEGIN -CARDS -->
 [![Selfbot Base](https://gh-card.dev/repos/PylenVance/Discord-SelfbotBase.svg)](https://github.com/PylenVance/Discord-SelfbotBase)
-<!-- END -CARDS -->
-
 #
 
 ### 📊 Stats
-
-![GitHub stats]![GitHub Stats](https://gh-readme-profile.vercel.app/api?username=FajarKim&locale=en)
-
-
-![GitHub Streak](https://streak-stats.demolab.com/?user=PylenVance&theme=default&border_radius=4.5) -->
-
+![GitHub stats]![GitHub Stats](https://gh-readme-profile.vercel.app/api?username=PylenVance&locale=en)
 #
-
 <details>
 
 [discord]: le_yuki
